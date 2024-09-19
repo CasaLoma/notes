@@ -18,3 +18,8 @@ _  - underscore
 [Github Compatible Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)  
 [Awesome GitHub - Curated list of awesome GitHub tools, libraries, and resources](https://github.com/fffaraz/awesome-github#awesome-github)  
 [Hello World - GitHub Tutorial (Get to Know the Basics)](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+
+# Experiments
+
+🥔👨‍🌾🥔  
+🐽🥓
