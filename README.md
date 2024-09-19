@@ -1,17 +1,17 @@
 # Number row characters
-~  - Tilde key  
-!  - Exclamation mark  
-@  - at symbol  
-\#  - pound symbol or hashtag  
-$  - Dollar symbol   
-%  - Percentage symbol  
-^  - Exponent sign or carat symbol  
-&  - ampersand  
-\*  - multiplication sign or star symbol  
-(  - open parathesis  
-)  - closed parathesis  
-_  - underscore  
-\+  - addition sign  
+- ~  (Tilde key)  
+- !  (Exclamation mark)  
+- @  (at symbol)  
+- \#  (pound symbol or hashtag)  
+- $  (Dollar symbol)   
+- %   (Percentage symbol)  
+- ^  (Exponent sign or carat symbol)  
+- &  (ampersand)  
+- \* (multiplication sign or star symbol)  
+- (  (open parathesis)  
+- )  (closed parathesis)  
+- _  (underscore)  
+- \+ (addition sign)  
 
 # Links
 
