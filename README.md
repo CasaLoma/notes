@@ -23,3 +23,14 @@
 
 - 🥔👨‍🌾🥔  
 - 🐽🥓
+
+## Keyboard shortcuts
+Shortcuts I requently use:
+- Ctrl-C (Copy)
+- Ctrl-V (Paste)
+- Ctrl-Shift-T (Reopens Last Tab you Closed)
+
+Shortcuts I would like to start using:
+- Command-Space (Show Spotlight Search Field on Mac)
+- Command-Shift-4 (Screenshot of a Selected Area)
+- Command-W (Close the Front Window)
