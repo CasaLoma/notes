@@ -35,5 +35,4 @@ Shortcuts I requently use:
 - Command-Shift-4 (Screenshot of a Selected Area)
 - Command-W (Close the Front Window)
 
-# CLI Commands
 ## [CLI commands](docs/cli.md)
