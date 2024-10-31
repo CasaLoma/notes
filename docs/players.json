@@ -26,7 +26,7 @@
       "City": "N/A" // string
     },
     "Position": "Player", // string
-    "Age": "41" // number
+    "Age": "41" // string
   },
   {
     "Name": "Tom Brady",
